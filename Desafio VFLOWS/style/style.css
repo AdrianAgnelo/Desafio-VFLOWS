@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8f9fa;
+  }
+
+
+.inputs{
+    margin-top: 10px;
+}
+
+.img-product {
+    width: 130px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lixeira{
+    color: red;
+}
+
+.eye{
+    background-color: transparent;
+    border: none;
+}
+
+.btn-lx{
+    background-color: transparent;
+    border: none;
+}
+
+.card-product{
+    background-color: #c6c6c6b7;
+}
+
+#file-input{
+    display: none;
+}
+
+#loadingModal .modal-dialog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
